@@ -10,9 +10,8 @@ minichess - another stupid dock app
       At the start of a game the troops are lined up and ready to fight.  The
       war is about to begin...
     </td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
     <td>
-      ![gcalcli](minichess/raw/master/docs/start.jpg)
+      ![minichess](minichess/raw/master/docs/start.jpg)
     </td>
   </tr>
   <tr>
@@ -21,9 +20,8 @@ minichess - another stupid dock app
       your face inches from the monitor in search of the enemy's Queen.  You
       know she's somewhere lurking, waiting, salivating...
     </td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
     <td>
-      ![gcalcli](minichess/raw/master/docs/middle.jpg)
+      ![minichess](minichess/raw/master/docs/middle.jpg)
     </td>
   </tr>
   <tr>
@@ -31,9 +29,8 @@ minichess - another stupid dock app
       But then... oh no!  The Queen appears and she pushes her sword deep
       through your King's heart.  The war is over and you suck.
     </td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
     <td>
-      ![gcalcli](minichess/raw/master/docs/end.jpg)
+      ![minichess](minichess/raw/master/docs/end.jpg)
     </td>
   </tr>
 </table>
