@@ -4,36 +4,21 @@ minichess - another stupid dock app
 
 **Works with [ Blackbox Slit | Window Maker Dock | Afterstep Wharf ].**
 
-<table>
-  <tr>
-    <td>
-      At the start of a game the troops are lined up and ready to fight.  The
-      war is about to begin...
-    </td>
-    <td>
-      ![minichess](minichess/raw/master/docs/start.jpg)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      The battle gets more intense as time passes.  You frequently squint with
-      your face inches from the monitor in search of the enemy's Queen.  You
-      know she's somewhere lurking, waiting, salivating...
-    </td>
-    <td>
-      ![minichess](minichess/raw/master/docs/middle.jpg)
-    </td>
-  </tr>
-  <tr>
-    <td>
-      But then... oh no!  The Queen appears and she pushes her sword deep
-      through your King's heart.  The war is over and you suck.
-    </td>
-    <td>
-      ![minichess](minichess/raw/master/docs/end.jpg)
-    </td>
-  </tr>
-</table>
+![minichess](minichess/raw/master/docs/start.jpg)
+![minichess](minichess/raw/master/docs/middle.jpg)
+![minichess](minichess/raw/master/docs/end.jpg)
+
+At the start of a game the troops are lined up and ready to fight.  The war is
+about to begin...
+
+The battle gets more intense as time passes.  You frequently squint with your
+face inches from the monitor in search of the enemy's Queen.  You know she's
+somewhere lurking, waiting, salivating...
+
+But then... oh no!  The Queen appears and she pushes her sword deep through
+your King's heart.  The war is over and you suck.
+
+----
 
 minichess was born out of boredom.  I warn you... if your a chess enthusiast
 and play a lot then please use xboard or some other chess gui.  Even though
