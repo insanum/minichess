@@ -4,9 +4,9 @@ minichess - another stupid dock app
 
 **Works with [ Blackbox Slit | Window Maker Dock | Afterstep Wharf ].**
 
-![minichess](minichess/raw/master/docs/start.jpg)
-![minichess](minichess/raw/master/docs/middle.jpg)
-![minichess](minichess/raw/master/docs/end.jpg)
+![minichess](https://github.com/insanum/minichess/raw/master/docs/start.jpg)
+![minichess](https://github.com/insanum/minichess/raw/master/docs/middle.jpg)
+![minichess](https://github.com/insanum/minichess/raw/master/docs/end.jpg)
 
 At the start of a game the troops are lined up and ready to fight.  The war is
 about to begin...
